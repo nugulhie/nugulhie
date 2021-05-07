@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nugulhie
-- 👀 I'm not sure my code but it will do somethings 
+- 👀 I'm not sure my code but it will do something
 - 🌱 I’m currently learning Computer Science at GNU, South Korea
 
 <!---
