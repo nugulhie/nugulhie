@@ -2,6 +2,6 @@
 
 - Busyyyyyyyyyy🧔🏻‍♂️
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=98hhjoo)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nugulhie)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=98hhjoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nugulhie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
